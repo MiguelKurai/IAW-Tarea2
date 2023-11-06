@@ -4,8 +4,8 @@
 
 ## [Instalación Apache2](/apache.md)
 
-## Instalación PHP
+## [Instalación PHP](/php.md)
 
-## Instalación MariaDB
+## [Instalación MariaDB](/mariadb.md)
 
-## Instalacion GoAccess
+## [Instalacion GoAccess](/goaccess.md)
