@@ -1,4 +1,4 @@
-#Instalación de Apache2
+# Instalación de Apache2
 
 ## Pasos a seguir
 
