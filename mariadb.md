@@ -4,10 +4,12 @@
 
 1. Instalamos MariaDB
 
-"sudo apt install mariadb-server
+"sudo apt install mariadb-server"
+
+![Instalar MariaDB](imagenes/instalarMariaDB.png)
 
 2. Activamos el servicio
 
 "sudo systemctl enable mariabd"
 
-3. 
+![Estado MariaDB](imagenes/estadoMariaDB.png)
