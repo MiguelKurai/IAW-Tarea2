@@ -8,4 +8,6 @@
 
 ## [Instalación MariaDB](/mariadb.md)
 
+## [Extensiones PHPMyAdmin](phpmyadmin.md)
+
 ## [Instalacion GoAccess](/goaccess.md)
